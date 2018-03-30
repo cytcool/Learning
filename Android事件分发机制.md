@@ -1,6 +1,6 @@
 # Android事件分发机制
 
-![Alt text](./dispatch.png)
+Learning/picture/944365-6ec2e864af7ffd37.png
 
 ## 基础认知
 
