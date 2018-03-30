@@ -1,6 +1,6 @@
 # Android事件分发机制
 
-Learning/picture/944365-6ec2e864af7ffd37.png
+https://raw.githubusercontent.com/cytcool/Learning/master/picture/dispatch.png
 
 ## 基础认知
 
